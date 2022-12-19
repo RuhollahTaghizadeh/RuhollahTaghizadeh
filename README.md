@@ -7,5 +7,5 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
  
 
 <p align="center">
-	<img title="R" alt="R" src="images/pedo.svg" height="80" />
+	<img title="R" alt="R" src="images/pedo.svg" height="120" />
 </p>
