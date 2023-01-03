@@ -7,13 +7,13 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
  
 
 <p align="center">
-	<img title="R" alt="R" src="images/pedo.svg" height="120" />
-	<img title="R" alt="R" src="images/RStudio_logo_flat.svg" height="120" />
-	<img title="R" alt="R" src="images/arc.svg" height="120" />
-	<img title="R" alt="R" src="images/qgis.svg" height="120" />
-	<img title="R" alt="R" src="images/soil.svg" height="120" />
-	<img title="R" alt="R" src="images/stat.svg" height="120" />
-	<img title="R" alt="R" src="images/pedo.svg" height="120" />
-	<img title="R" alt="R" src="images/pedo.svg" height="120" />
+	<img title="R" alt="R" src="images/pedo.svg" height="80" />
+	<img title="R" alt="R" src="images/RStudio_logo_flat.svg" height="80" />
+	<img title="R" alt="R" src="images/arc.svg" height="80" />
+	<img title="R" alt="R" src="images/qgis.svg" height="80" />
+	<img title="R" alt="R" src="images/soil.svg" height="80" />
+	<img title="R" alt="R" src="images/stat.svg" height="80" />
+	<img title="R" alt="R" src="images/R_logo.svg" height="80" />
+	<img title="R" alt="R" src="images/RS.svg" height="80" />
 
 </p>
