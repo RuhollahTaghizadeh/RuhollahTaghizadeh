@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a postdoc researcher at the [Department of Geosciences](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/), University of Tübingen. My primary research interest is in **Pedometrics** with a particular focus on **Digital Soil Mapping**. The core of the pedometric approach integrates soil system knowledge with advanced statistical methods, **Machine Learning**, geoinformatics, and **Remote Sensing**. I apply the most recent technology in spatial data analysis to model and predict various environmental metrics such as soils, water, vegetation, and climate.
+I am a postdoc researcher at the [Department of Geosciences](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/), University of Tübingen. My primary research interest is in **Pedometrics** with a particular focus on **Digital Soil Mapping**. The core of the pedometric approach integrates soil system knowledge with **Advanced Statistical Methods**, **Machine Learning**, **Geoinformatics**, and **Remote Sensing**. 
 
 My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 
