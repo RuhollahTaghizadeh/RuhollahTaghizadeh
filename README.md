@@ -15,5 +15,7 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 	<img title="R" alt="R" src="images/stat.svg" height="40" />
 	<img title="R" alt="R" src="images/R_logo.svg" height="40" />
 	<img title="R" alt="R" src="images/RS.svg" height="40" />
+	<img title="R" alt="R" src="images/ML.svg" height="40" />
+
 
 </p>
