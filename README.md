@@ -6,7 +6,7 @@ My research interests include geospatial analysis, pedometrics, digital soil map
 My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 
 <p align="center">
-	<img title="R" alt="R" src="images/02.png" height="360" />
+	<img title="R" alt="R" src="images/02.jpeg" height="360" />
 </p>
 
 <p align="center">
