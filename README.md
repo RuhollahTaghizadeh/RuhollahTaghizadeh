@@ -4,7 +4,10 @@ I am a postdoc researcher at the [Department of Geosciences](https://uni-tuebing
 My research interests include geospatial analysis, pedometrics, digital soil mapping, and remote sensing.
 
 My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
- 
+
+<p align="center">
+	<img title="R" alt="R" src="images/01.png" height="360" />
+</p>
 
 <p align="center">
 	<img title="R" alt="R" src="images/pedo.svg" height="40" />
