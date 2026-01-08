@@ -5,6 +5,8 @@ My primary research interest is in **Pedometrics** with a particular focus on **
 
 [![Website](https://img.shields.io/badge/Website-6A1B9A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruhollahtaghizadeh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhollahtaghizadeh/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en&oi=ao)
+
 
 
 
