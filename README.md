@@ -3,12 +3,14 @@
 I am a data scientist at the [Yara International](https://www.yara.de/). 
 My primary research interest is in **Pedometrics** with a particular focus on **Digital Soil Mapping**. The core of the pedometric approach integrates soil system knowledge with **Advanced Statistical Methods**, **Machine Learning**, **Geospatial Data Analysis**, and **Remote Sensing**. 
 
-[![Website](https://img.shields.io/badge/Website-Visit-6A1B9A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruhollahtaghizadeh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhollahtaghizadeh/)
+[![Website](https://img.shields.io/badge/Website-6A1B9A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruhollahtaghizadeh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhollahtaghizadeh/)
 
 
 
 ---
+### 💻 Languages and Tools:
+
 <p align="center">
 
   <!-- Soil -->
