@@ -9,7 +9,31 @@ My primary research interest is in **Pedometrics** with a particular focus on **
 
 
 ---
-<p align="center"> <img title="R" alt="R" src="images/pedo.svg" height="40" /> <img title="R" alt="R" src="images/RStudio_logo_flat.svg" height="40" /> <img title="R" alt="R" src="images/arc.svg" height="40" /> <img title="R" alt="R" src="images/qgis.svg" height="40" /> <img title="R" alt="R" src="images/soil.svg" height="40" /> <img title="R" alt="R" src="images/stat.svg" height="40" /> <img title="R" alt="R" src="images/R_logo.svg" height="40" /> <img title="R" alt="R" src="images/RS.svg" height="40" /> <img title="R" alt="R" src="images/ML.svg" height="40" /> </p>
+<p align="center">
+
+  <!-- Soil -->
+  <img title="Pedology" alt="Pedology" src="images/pedo.svg" height="40" />
+  <img title="Soil" alt="Soil" src="images/soil.svg" height="40" />
+  <img title="Remote Sensing" alt="Remote Sensing" src="images/RS.svg" height="40" />
+
+  <!-- Statistics -->
+  <img title="Statistics" alt="Statistics" src="images/stat.svg" height="40" />
+  <img title="SQL" alt="SQL" src="images/Sql.png" height="40" />
+
+  <!-- Programming -->
+  <img title="R" alt="R" src="images/R_logo.svg" height="40" />
+  <img title="Python" alt="Python" src="images/Python.svg" height="40" />
+  <img title="Machine Learning" alt="Machine Learning" src="images/ML.svg" height="40" />
+
+  <!-- Tools -->
+  <img title="RStudio" alt="RStudio" src="images/RStudio_logo_flat.svg" height="40" />
+  <img title="Jupyter" alt="Jupyter" src="images/Jupyter.svg" height="40" />
+  <img title="VS Code" alt="VS Code" src="images/vscode.svg" height="40" />
+  <img title="Git" alt="Git" src="images/Git.svg" height="40" />
+  <img title="ArcGIS" alt="ArcGIS" src="images/arc.svg" height="40" />
+  <img title="QGIS" alt="QGIS" src="images/qgis.svg" height="40" />
+
+</p>
 
 ---
 
