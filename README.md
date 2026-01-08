@@ -22,7 +22,7 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 
 #### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhollahTaghizadeh&show_icons=true&theme=dark&v=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhollahTaghizadeh&layout=compact&theme=dark&v=2)
+![GitHub Streak](https://streak-stats.demolab.com?user=RuhollahTaghizadeh&theme=dark)
+
 
 
