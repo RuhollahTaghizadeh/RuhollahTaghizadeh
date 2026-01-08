@@ -7,6 +7,7 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ruhollahtaghizadeh/)
 
+---
 ### 🎯 Core Skills
 ![Digital Soil Mapping](https://img.shields.io/badge/Digital%20Soil%20Mapping-7B4A12?style=for-the-badge)
 ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-6A1B9A?style=for-the-badge)
@@ -33,6 +34,14 @@ My [Personal Website](https://ruhollahtaghizadeh.netlify.app/)
 ![plotly](https://img.shields.io/badge/plotly-AD1457?style=for-the-badge&logo=plotly&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-2E7D32?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge)
+
+---
+
+#### 📊 GitHub Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RuhollahTaghizadeh&theme=dark)
+
+---
 
 
 
