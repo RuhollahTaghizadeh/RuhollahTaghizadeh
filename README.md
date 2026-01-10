@@ -41,11 +41,6 @@ My primary research interest is in **Pedometrics** with a particular focus on **
 
 ---
 
-#### 📊 GitHub Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RuhollahTaghizadeh&theme=dark)
-
----
 
 
 
